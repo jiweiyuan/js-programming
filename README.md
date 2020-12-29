@@ -1,5 +1,21 @@
-# JavaScript 程序设计
+# JavaScript Programming
 
+## 总目录
+- Method: API与方法
+- Technology: 编程技术
+- Design: 设计模式
+- Alogrithms: 算法
+- Bug: bug 问题
+
+## Method
+
+## Technology
+
+- t01-taskPool 任务池限制并发数
+
+## Tech
+
+## API/Methods
 1. promise.all
 2. promise
 3. reduce
@@ -14,10 +30,14 @@
 12. taskPool
 
 
-## Bug
-
-b01. newDate 不同浏览器下兼容处理
 
 
 ## Algorithms
-a01-bu
+
+- a01-BubbleSort
+- a02-SelectionSort
+- a03-InsertionSort
+
+## Bug
+
+b01. newDate 不同浏览器下兼容处理
