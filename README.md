@@ -12,8 +12,8 @@
 ## Technology
 
 - t01-taskPool 任务池限制并发数
+- t02-limitRequest 限制请求并发数
 
-## Tech
 
 ## API/Methods
 1. promise.all
@@ -25,7 +25,6 @@
 7. compose
 8. deepClone
 9. type
-10. limitPromise
 11. memoize
 12. taskPool
 
@@ -40,4 +39,4 @@
 
 ## Bug
 
-b01. newDate 不同浏览器下兼容处理
+- b01. newDate 不同浏览器下兼容处理

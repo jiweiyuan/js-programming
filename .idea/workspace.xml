@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765f5bfb-9963-46a5-9fc2-061944bdf9c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/t01-taskPool/taskPool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t02-limitRequest/limitRequest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010-limitPromise/limitPromise.js" beforeDir="false" afterPath="$PROJECT_DIR$/010-limitPromise/limitPromise.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -33,23 +36,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.memoize.js">
+  <component name="RunManager" selected="Node.js.limitRequest.js">
     <configuration name="deepClone.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/008-deepClone/deepClone.js" working-dir="$PROJECT_DIR$/008-deepClone">
       <method v="2" />
     </configuration>
     <configuration name="limitPromise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010-limitPromise/limitPromise.js" working-dir="$PROJECT_DIR$/010-limitPromise">
       <method v="2" />
     </configuration>
+    <configuration name="limitRequest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/t02-limitRequest/limitRequest.js" working-dir="$PROJECT_DIR$/t02-limitRequest">
+      <method v="2" />
+    </configuration>
     <configuration name="memoize.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/011-memoize/memoize.js" working-dir="$PROJECT_DIR$/011-memoize">
+      <method v="2" />
+    </configuration>
+    <configuration name="taskPool.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/t01-taskPool/taskPool.js" working-dir="$PROJECT_DIR$/t01-taskPool">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.memoize.js" />
+        <item itemvalue="Node.js.limitRequest.js" />
         <item itemvalue="Node.js.limitPromise.js" />
+        <item itemvalue="Node.js.taskPool.js" />
+        <item itemvalue="Node.js.memoize.js" />
         <item itemvalue="Node.js.deepClone.js" />
       </list>
     </recent_temporary>
@@ -67,7 +78,8 @@
       <workItem from="1608948550999" duration="3019000" />
       <workItem from="1609079766880" duration="3762000" />
       <workItem from="1609137012056" duration="2189000" />
-      <workItem from="1609230538354" duration="3159000" />
+      <workItem from="1609230538354" duration="3732000" />
+      <workItem from="1609309847213" duration="11706000" />
     </task>
     <servers />
   </component>
